@@ -1,0 +1,5 @@
+spam = True     # assigning a value
+spam            # calling the value stored in it
+true           # if no value is stored in a variable ; it will result in error 
+
+b = 2 + 2   # shows that keywords can be stored in a variable but it cannot be used as a variable
