@@ -1,0 +1,10 @@
+                                # DELETING SPACE OF PRINT()
+print('hello world')
+print('hello corona...')
+print()
+print('Hello', end='')      # end='' will delete the default spacing function of the print()
+print('World')
+print()
+print('The Addams ', end='')         
+print('Family')
+
