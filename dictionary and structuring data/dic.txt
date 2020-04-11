@@ -1,0 +1,40 @@
+1. we can use dictionary to use it several times or like this...
+	
+print(myCat['color'])
+
+print('my cat color is ' + myCat['color'] + ' and its pretty ' + myCat['size'] + '.')
+
+2. we can use words, letters, numbers ( floats or simple even like this 11. ) or we can assign a variable with a number and make a dictionay word on the variable and the dictionary word can be called by calling the varaible or the value stored in the variable...
+
+n = 12
+
+hi = { n:'hello', 22:'none'}	because n is a variable so it is not written in ''
+
+print(hi[n])
+
+print(hi[12])
+
+both prints will call the same word...
+
+3. we can call the dictionary variables using list(name of the dictionary)...
+
+4. to check all the values in the dic we use values and its like this...
+	for v in nameofthedic.values():
+		print(v)
+
+5. to check all the items in the dic we use the same mathod as above but replace values with item...
+
+6. to check the keys in dic we use the same as above...
+
+
+
+
+
+
+
+
+
+
+
+
+
